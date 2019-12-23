@@ -1,0 +1,8 @@
+platform :ios, '12.0'
+use_frameworks!
+
+target 'IceCreamShop' do
+  pod 'Alamofire', '~> 4.7'
+  pod 'MBProgressHUD', '~> 1.1.0'
+end
+
